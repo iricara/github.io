@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ygeía</title>
+  <h1 style="color:rgb(100, 5, 88);text-align:center;">Tips para la prevención de enfermedades virales y bacterianas.</h1>
+</head>
+<body style="background-color:rgb(247, 247, 158);">
+<pre>
+<h2 style="font-size:150%;"> 1- Lavarse las manos&#128513;</h2>
+<p>Lavarse las manos es una de las mejores formas de ayudar a prevenir una infección. Deben lavarse las manos con agua limpia y jabón. También pueden utilizar geles a 
+base de alcohol.</p>
+<img src="Lavarse las manos.jpg">
+
+<h2 style="font-size:150%;"> 2- Seguridad de los alimentos&#128515;</h2>
+ <ul>
+  <li>Lavar las tablas de cortar, superficies de apoyo y utensilios después de que hayan tenido contacto con alimentos crudos.</li>
+  <li>Lavar bien los vegetales y las frutas antes de comerlos.</li>
+  <li>Cocinar bien la carne.</li>
+  <li> No comer huevos crudos ni mal cocidos.</li>
+  <li> No consumir leche ni otros productos lácteos (quesos) crudos o no pasteurizados</li>.
+</ul>
+<img src="Seguridad en los alimentos.jpg">
+<h2 style="font-size:150%;"> 3- vacunas&#128516;</h2>
+  <p>Las vacunas son una excelente manera de prevenir muchas infecciones graves. Los niños deben recibir todas las vacunas infantiles de rutina.</p>
+<img src="vacunas.jpg">
+
+<a href="https://www.cdc.gov/ncbddd/spanish/sicklecell/healthyliving-prevent-infection.html">Para más información, click aquí.</a>
+</body>
+</pre>
+</html>
